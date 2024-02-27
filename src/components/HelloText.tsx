@@ -49,8 +49,9 @@ const styles = StyleSheet.create({
   },
   greeting: {
     fontSize: 20,
-    fontWeight: 'bold',
+    // fontWeight: 'bold',
     margin: 16,
+    fontFamily: 'Montserrat-Regular',
   },
 });
 
